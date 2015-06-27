@@ -13,6 +13,7 @@ public class Test : MonoBehaviour
 
         T01_foreach.Execute();
         T03_enum_string.Execute();
+        T04_typecast.Execute();
     }
 
     void Update()
