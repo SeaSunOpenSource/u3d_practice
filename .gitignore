@@ -42,7 +42,6 @@ dlldata.c
 *_p.c
 *_i.h
 *.ilk
-*.meta
 *.obj
 *.pch
 *.pdb
@@ -194,3 +193,9 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+
+/Library
+/Temp
+
+/UnityVS.u3d_practice.CSharp.csproj
+/UnityVS.u3d_practice.sln
