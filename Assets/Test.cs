@@ -14,6 +14,8 @@ public class Test : MonoBehaviour
         T01_foreach.Execute();
         T03_enum_string.Execute();
         T04_typecast.Execute();
+        T05_matrix.Execute();
+        T06_matrix_caching.Execute();
     }
 
     void Update()
